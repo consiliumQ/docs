@@ -16,6 +16,7 @@ _I dont want to do this_
 - [ ] Sitemap
 - [ ] WireFraming
 - [x] Select Technology Stack
+- [ ] DB schema
 
 ### Design
 
