@@ -1,10 +1,16 @@
-## consiliumQ Software Development Process
+## consiliumQ Tasks Management Platform
 
 _updated: 1/20/19, Mijeong Ban_
+_updated: 10/27/19, Benjamin Cai_
+
+### Project Description
+
+The **consiliumQ** Tasks Management Platform is a task management tool designed and built on the top of kanban board practice. Users can create project entity on the platform and utilize the kanban board feature for project planning, and visualize the development process data with the data visualization feature coming out of box.
 
 ### Analysis: Information Gathering
 
-_I dont want to do this_
+_Mijeong: I dont want to do this_
+*Benji: I think we can skip this part and dive in the development lol*
 
 - [ ] Purpose
 - [ ] Goals
