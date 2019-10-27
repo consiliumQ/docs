@@ -9,8 +9,8 @@ The **consiliumQ** Tasks Management Platform is a task management tool designed 
 
 ### Analysis: Information Gathering
 
-_Mijeong: I dont want to do this_
-*Benji: I think we can skip this part and dive in the development lol*
+_Mijeong: I dont want to do this_.  
+_Benji: I think we can skip this part and dive in the development lol._
 
 - [ ] Purpose
 - [ ] Goals
