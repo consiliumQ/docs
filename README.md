@@ -2,6 +2,7 @@
 
 _updated: 1/20/19, Mijeong Ban_
 _updated: 10/27/19, Benjamin Cai_
+_updated: 10/30/19, Mijeong Ban_
 
 ### Project Description
 
@@ -19,11 +20,11 @@ _Mijeong: No we at least need to do planning and design parts. >:-|_
 
 ### Planning
 
-- [ ] List of Features
+- [x] List of Features
 - [ ] Sitemap
 - [ ] WireFraming
 - [x] Select Technology Stack
-- [ ] DB schema
+- [x] DB schema
 
 ### Design
 
