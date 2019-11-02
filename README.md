@@ -22,7 +22,7 @@ _Mijeong: No we at least need to do planning and design parts. >:-|_
 
 - [x] List of Features
 - [ ] Sitemap
-- [ ] WireFraming
+- [ ] WireFraming (In Progress)
 - [x] Select Technology Stack
 - [x] DB schema
 
