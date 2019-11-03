@@ -4,5 +4,11 @@
     "columnBackground": "#282c34",
     "columnBorder": "",
     "cardBackground": "#21252b"
+  },
+  "navbar": {
+    "background": "#282c34"
+  },
+  "font": {
+    "color1": "#d7dae0"
   }
 }
