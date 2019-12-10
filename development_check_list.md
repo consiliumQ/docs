@@ -10,7 +10,7 @@
   
 ### Components (site map)
 
-- [ ] Kanban Board
+- [x] Kanban Board
   - [x] Drag and drop
     - [x] DnD card on card
     - [x] DnD card on list (when drag card on an empty list / not on a card)
@@ -34,6 +34,9 @@
  - [x] Delete Button alert
  - [x] Add Task Card form ui
  - [ ] Trigger graphql mutation
+   - [x] Add task card mutation
+   - [ ] Edit task card mutation
+   - [ ] Delete task card mutation
  
 - [ ] SideBar 
   - [x] SideBar Dummy UI
