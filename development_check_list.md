@@ -11,16 +11,16 @@
 ### Components (site map)
 
 - [ ] Kanban Board
-  - [ ] Drag and drop
+  - [x] Drag and drop
     - [x] DnD card on card
     - [x] DnD card on list (when drag card on an empty list / not on a card)
     - [x] DnD list on list
-    - [ ] Trigger graphql mutation when drop the card
+    - [x] Trigger graphql mutation when drop the card
 
 - [ ] Kanban Columns
-  - [ ] Add column
+  - [x] Add column
     - [x] Add column form UI
-    - [ ] Trigger graphql mutation
+    - [x] Trigger graphql mutation
   - [ ] Delete column
     - [ ] Delete column button
     - [ ] Trigger graphql mutation
@@ -32,6 +32,7 @@
  - [x] Card UI
  - [x] Update Card form UI
  - [x] Delete Button alert
+ - [x] Add Task Card form ui
  - [ ] Trigger graphql mutation
  
 - [ ] SideBar 
@@ -75,6 +76,7 @@
   - [x] getAll // probably not needed
   - [x] getById
   - [x] getByUserId
+  - [x] getByColumnId
   - [x] createOne
   - [x] updateOne
   - [x] deleteOne
