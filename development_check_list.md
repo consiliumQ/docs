@@ -35,7 +35,7 @@
  - [x] Add Task Card form ui
  - [ ] Trigger graphql mutation
    - [x] Add task card mutation
-   - [ ] Edit task card mutation
+   - [x] Edit task card mutation
    - [ ] Delete task card mutation
  
 - [ ] SideBar 
