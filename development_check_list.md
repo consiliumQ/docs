@@ -28,15 +28,15 @@
     - [ ] Update column form UI
     - [ ] Trigger graphql mutation
 
-- [ ] TaskCard
+- [x] TaskCard
  - [x] Card UI
  - [x] Update Card form UI
  - [x] Delete Button alert
  - [x] Add Task Card form ui
- - [ ] Trigger graphql mutation
+ - [x] Trigger graphql mutation
    - [x] Add task card mutation
    - [x] Edit task card mutation
-   - [ ] Delete task card mutation
+   - [x] Delete task card mutation
  
 - [ ] SideBar 
   - [x] SideBar Dummy UI
