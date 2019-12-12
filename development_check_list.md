@@ -29,14 +29,14 @@
     - [ ] Trigger graphql mutation
 
 - [x] TaskCard
- - [x] Card UI
- - [x] Update Card form UI
- - [x] Delete Button alert
- - [x] Add Task Card form ui
- - [x] Trigger graphql mutation
-   - [x] Add task card mutation
-   - [x] Edit task card mutation
-   - [x] Delete task card mutation
+  - [x] Card UI
+  - [x] Update Card form UI
+  - [x] Delete Button alert
+  - [x] Add Task Card form ui
+  - [x] Trigger graphql mutation
+    - [x] Add task card mutation
+    - [x] Edit task card mutation
+    - [x] Delete task card mutation
  
 - [ ] SideBar 
   - [x] SideBar Dummy UI
